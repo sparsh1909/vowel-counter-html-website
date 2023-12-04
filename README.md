@@ -26,38 +26,21 @@ cd vowel-counter-html-website
 
 ### On Windows:
 
-Open a command prompt (CMD) and navigate to the project directory using the cd command:
-```bash
-cd path\to\vowel-counter-html-website
-```
-
-Then, open the HTML file with your default web browser using the start command:
+Open the HTML file with your default web browser using the start command:
 ```bash
 start index.html
 ```
 
 ### On macOS:
 
-Open a terminal and navigate to the project directory using the cd command:
-
-```bash
-cd path/to/vowel-counter-html-website
-```
-
-Then, open the HTML file with the default web browser using the open command:
+Open the HTML file with the default web browser using the open command:
 ```bash
 open index.html
 ```
 
 ### On Linux:
 
-Open a terminal and navigate to the project directory using the cd command:
-
-```bash
-cd path/to/vowel-counter-html-website
-```
-
-Then, open the HTML file with your default web browser using the appropriate command. For example, on systems using GNOME (like Ubuntu):
+Open the HTML file with your default web browser using the appropriate command. For example, on systems using GNOME (like Ubuntu):
 ```bash
 gnome-open index.html
 ```
