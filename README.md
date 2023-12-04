@@ -24,7 +24,7 @@ cd vowel-counter-html-website
 ```
 ### Open the index.html file in your preferred web browser.
 
-On Windows:
+### On Windows:
 
 Open a command prompt (CMD) and navigate to the project directory using the cd command:
 ```bash
@@ -36,7 +36,8 @@ Then, open the HTML file with your default web browser using the start command:
 start index.html
 ```
 
-On macOS:
+### On macOS:
+
 Open a terminal and navigate to the project directory using the cd command:
 
 ```bash
@@ -48,7 +49,8 @@ Then, open the HTML file with the default web browser using the open command:
 open index.html
 ```
 
-On Linux:
+### On Linux:
+
 Open a terminal and navigate to the project directory using the cd command:
 
 ```bash
